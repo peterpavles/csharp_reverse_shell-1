@@ -1,0 +1,7 @@
+C:\Users\Théo\source\repos\SocketProjetFrame\SocketProjetClient\bin\Debug\SocketProjetClient.exe.config
+C:\Users\Théo\source\repos\SocketProjetFrame\SocketProjetClient\bin\Debug\SocketProjetClient.exe
+C:\Users\Théo\source\repos\SocketProjetFrame\SocketProjetClient\bin\Debug\SocketProjetClient.pdb
+C:\Users\Théo\source\repos\SocketProjetFrame\SocketProjetClient\obj\Debug\SocketProjetClient.csproj.CoreCompileInputs.cache
+C:\Users\Théo\source\repos\SocketProjetFrame\SocketProjetClient\obj\Debug\SocketProjetClient.exe
+C:\Users\Théo\source\repos\SocketProjetFrame\SocketProjetClient\obj\Debug\SocketProjetClient.pdb
+C:\Users\Théo\source\repos\SocketProjetFrame\SocketProjetClient\obj\Debug\SocketProjetClient.csprojAssemblyReference.cache
